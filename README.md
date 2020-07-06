@@ -1,7 +1,7 @@
 
 # Remixing Motion Capture Data With Conditional Variational Autoencoders
 
-![A Reconstructed Animation](/imgs/reconstruction.gif)
+![A Reconstructed Animation](/Imgs/reconstruction.gif)
 
 This repo is a bare bones demonstration of the code that was used to make our machine learning based animation videos.
 
