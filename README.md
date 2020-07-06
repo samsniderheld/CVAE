@@ -1,7 +1,7 @@
 
 # Remixing Motion Capture Data With Conditional Variational Autoencoders
 
-![A Reconstructed Animation](/images/reconstruction.gif)
+![A Reconstructed Animation](/imgs/reconstruction.gif)
 
 This repo is a bare bones demonstration of the code that was used to make our machine learning based animation videos.
 
@@ -10,6 +10,8 @@ It includes a basic unity project that can be used to generated depth data sampl
 The licensing on the motioncapture data we used in this project does not allow for redistribution, and is not included here.
 
 Included is some toy data intended to show how the neural network works, but can not be used to train a successful neural network though. It can be used to generate animation samples though.
+
+A write up of the project can be found here: 
 
 # Unity Project
 
