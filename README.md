@@ -5,7 +5,11 @@
 
 This repo is a bare bones demonstration of the code that was used to make our machine learning based animation videos.
 
-It includes a basic unity project that can be used to generated depth data samples and render neural network output, a tensorflow.keras implementation of our CVAE, and basic neural network generation code.
+You can find them [here](https://vimeo.com/440658266/3178435919) and [here](https://vimeo.com/440657190/11c74a21a7).
+
+A technical blog post describing our process can be found [here](https://medium.com/@samsniderheld/remixing-motion-capture-data-with-conditional-variational-autoencoders-1f5c84e20e74)
+
+This repo includes a basic unity project that can be used to generated depth data samples and render neural network output, a tensorflow.keras implementation of our CVAE, and basic neural network generation code.
 
 The licensing on the motioncapture data we used in this project does not allow for redistribution, and is not included here.
 
