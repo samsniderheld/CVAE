@@ -5,4 +5,4 @@ tqdm==4.31.1
 tensorflow_gpu==1.13.1
 librosa==0.7.1
 Pillow==7.2.0
-tensorflow==2.2.0
+tensorflow==2.5.1
